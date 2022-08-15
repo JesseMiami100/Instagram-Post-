@@ -1,0 +1,84 @@
+
+body{
+    background-color: black;
+}
+
+#text {
+    height: 60px;
+    width: 75px;
+    background-color: white;
+    position: absolute;
+    z-index: 5;
+    margin-left: 540px;
+    margin-top: 25px;
+}
+
+.html5logo {
+    height: 60px;
+    width: 459px;
+    background-color: white;
+    padding: none;
+    position: absolute;
+    z-index: 2; 
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+
+.play {
+    height: 48px;
+    width: 28px;
+    background-color: white;
+    padding: none;
+    position: absolute;
+    z-index: 6; 
+    margin-top: 35px;
+    margin-left: 503px;
+}
+
+img {
+    height: 320px;
+    width: 459px;
+    position: absolute;
+    z-index: 3;
+    margin-top: 85px;
+    margin-left: 500px;
+  
+}
+
+.logo {
+    position: absolute;
+    background-color: white;
+    z-index: 4;
+    width: 439px;
+    padding: 10px;
+    margin-top: 405px;
+    margin-left: 500px;
+}
+
+.bookmark {
+    float: right;
+}
+
+
+.dots {
+    float: right;
+    margin-top: 17px;
+}
+
+.pt {
+    margin-top: 25px;
+}
+
+#footer {
+    height: 155px;
+    width: 429px; 
+    background-color: white;
+    position: absolute;
+    z-index: 5;
+    margin-top: 450px;
+    margin-left: 500px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 15px;
+}
